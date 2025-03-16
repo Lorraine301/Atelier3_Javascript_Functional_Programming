@@ -1,0 +1,11 @@
+[
+   { "name": "Ordinateur portable", "price": 5000, "category": "Électronique", "stock": 3, "image": "images/ordinateur.jpg" },
+    { "name": "Téléphone", "price": 2500, "category": "Électronique", "stock": 5, "image": "images/telephone.jpg" },
+    { "name": "Casque Bluetooth", "price": 199, "category": "Électronique", "stock": 15, "image": "images/casque.jpeg" },
+    { "name": "Robe Femme", "price": 100, "category": "Vêtements", "stock": 50, "image": "images/robe.jpeg" },
+    { "name": "Pantalon Homme", "price": 80, "category": "Vêtements", "stock": 30, "image": "images/pantalon.jpeg" },
+    { "name": "Sac Femme", "price": 50.99, "category": "Vêtements", "stock": 25, "image": "images/sac.jpeg" },
+    { "name": "Chaise", "price": 50, "category": "Mobilier", "stock": 8, "image": "images/chaise.jpeg" },
+    { "name": "Table", "price": 120, "category": "Mobilier", "stock": 4, "image": "images/table.jpeg" },
+    { "name": "Lampe", "price": 25, "category": "Mobilier", "stock": 12, "image": "images/lampe.jpeg" }
+]

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gestion des Produits</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <body>
+        <nav>
+            <ul>
+                <li><a href="index.html" class="active">Produits</a></li>
+                <li><a href="dashboard.html" id="stat">Voir la statistique</a></li>
+            </ul>
+        </nav>
+     <h1 id="titre">À la recherche d'un produit?</h1>
+        <input type="text" id="searchBar" placeholder="🔎Rechercher un produit...">
+        <select id="categoryFilter">
+            <option value="">Toutes les catégories</option>
+        </select>
+        <select id="sortOption">
+            <option value="price">Trier par prix</option>
+            <option value="stock">Trier par stock</option>
+        </select>
+        <button id="calculateTotal">Calculer Prix Total</button>
+        <div id="totalPrice"></div>
+        <ul id="productList"></ul>
+    
+        <script src="exercice6.js"></script>
+    </body>
+    
+    
+</body>
+</html>
