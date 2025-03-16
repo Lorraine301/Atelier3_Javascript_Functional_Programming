@@ -122,7 +122,7 @@ Cette application web permet de gérer un ensemble de produits en effectuant dif
 
 ## Conclusion
 
-Cet Atrlier projet m'a permis d'explorer la puissance de la programmation fonctionnelle en JavaScript.oN a vu comment utiliser les fonctions d'ordre supérieur pour manipuler des listes de données efficacement et comment appliquer ces concepts dans une application web interactive.
+Cet Atelier projet m'a permis d'explorer la puissance de la programmation fonctionnelle en JavaScript.oN a vu comment utiliser les fonctions d'ordre supérieur pour manipuler des listes de données efficacement et comment appliquer ces concepts dans une application web interactive.
 
 ---
 
