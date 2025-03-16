@@ -115,7 +115,7 @@ Cette application web permet de gérer un ensemble de produits en effectuant dif
 ![Dashboard](images/dashboard_des_stocks.png)    
 
 ## Auteur  
-👨‍💻 Développé par **Lorraine301**  
+👨‍💻 Développée par **Lorraine301**  
 
 
 
