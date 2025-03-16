@@ -122,13 +122,13 @@ Cette application web permet de gérer un ensemble de produits en effectuant dif
 
 ## Conclusion
 
-Cet Atelier  m'a permis d'explorer la puissance de la programmation fonctionnelle en JavaScript.oN a vu comment utiliser les fonctions d'ordre supérieur pour manipuler des listes de données efficacement et comment appliquer ces concepts dans une application web interactive.
+Cet Atelier  m'a permis d'explorer la puissance de la programmation fonctionnelle en JavaScript.On a vu comment utiliser les fonctions d'ordre supérieur pour manipuler des listes de données efficacement et comment appliquer ces concepts dans une application web interactive.
 
 ---
 
 ## Licence
 
-Ce projet est sous licence MIT. Vous êtes libre de l'utiliser et de le modifier selon vos besoins.
+Cet Atelier est sous licence MIT. Vous êtes libre de l'utiliser et de le modifier selon vos besoins.
 
 
 
